@@ -1,6 +1,6 @@
 #Curso JDBC da Alura/Oracle.
 </br>
-<h3>Programa com interligação com SQL server</h2>
+<h3>Programa interligação com SQL server</h2>
 <p>Esse programa foi feito através dos conhecimento aprendido no curso de
 Java e JDBC: trabalhando com um banco de dados da Alura.
 
